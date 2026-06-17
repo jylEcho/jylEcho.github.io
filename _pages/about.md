@@ -44,6 +44,9 @@ Ying Chen, **Jinyue Li**, Kun Wang†, Qiankun Li†, Yang Liu
 
 ---
 
+### **IJCAI** (*Conference*) | 2026, **CCF-A**
+**Joint Medical Image Enhancement and Segmentation with Diffusion-based Symbiotic Information Interaction**
 
+Ying Chen, **Jinyue Li**, Qiankun Li†
 
-
+---
