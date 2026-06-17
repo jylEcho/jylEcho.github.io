@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NightLaneSynth"
+excerpt: "Synthetic Night Data for Nighttime Lane Detection.<br/><img src='/JPG/bike.jpg'>"
 collection: portfolio
+permalink: /portfolio/nightlanesynth/
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+NightLaneSynth is a public research repository focused on synthetic nighttime data for lane detection.
+
+- Repository: [github.com/jylEcho/NightLaneSynth](https://github.com/jylEcho/NightLaneSynth)
+- Focus: computer vision, synthetic data, robust perception
+- Notes: this site uses the repository list as a lightweight project showcase and can be expanded later with papers, figures, and experiment details.
