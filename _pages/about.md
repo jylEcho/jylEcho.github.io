@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinyue Li | Medical AI & Computer Vision Researcher"
+title: "Jinyue Li | Integrated Ph.D. Student, USTC"
 author_profile: true
 redirect_from: 
   - /about/
