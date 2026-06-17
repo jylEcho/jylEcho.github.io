@@ -7,12 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="/JPG/ustc.jpg" width="120">
-</p>
-
+<table>
+  <tr>
+    <td width="75%" valign="top">
 
 I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
+
+My research interests include **Medical AI**, **Computer Vision**, and **Foundation Models**.
+
+   </td>
+
+   <td width="25%" align="center">
+      <img src="{{ '/JPG/ustc.jpg' | relative_url }}" width="120">
+   </td>
+  </tr>
+</table>
 
 ## ✨ Selected Publications
 
