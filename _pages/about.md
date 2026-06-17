@@ -9,7 +9,7 @@ redirect_from:
 
 <table>
   <tr>
-    <td width="75%" valign="top">
+    <td width="75%" valign="top" style="font-size:16px;">
 
 I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
 
