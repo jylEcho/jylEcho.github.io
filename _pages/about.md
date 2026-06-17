@@ -56,8 +56,7 @@ Ying Chen, **Jinyue Li**, Qiankun Li†
 ### **Assistant Research Algorithm Engineer** | 2025.04 – 2025.07
 **iFLYTEK Co., Ltd. (科大讯飞)**
 
-- Conducted research and development on medical image analysis and deep learning algorithms.
-- Designed and implemented models for medical image segmentation and enhancement.
-- Explored parameter-efficient fine-tuning methods and foundation models for medical imaging tasks.
-- Collaborated with researchers and engineers on algorithm optimization and experimental validation.
+- Conducted research and development on large language models (LLMs) and their downstream applications.
+- Explored parameter-efficient fine-tuning techniques, including LoRA-based adaptation for domain-specific tasks.
+- Participated in model training, evaluation, and deployment to improve efficiency and real-world applicability.
 
