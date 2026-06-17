@@ -9,20 +9,15 @@ redirect_from:
 
 <table>
   <tr>
-    <td width="75%" valign="top">
+    <td width="75%" valign="top" style="font-size:1em;">
 
-      <p style="font-size:1em;">
-        I am <strong>Jinyue Li</strong>, an integrated Ph.D. student in the
-        Department of Electronic Engineering and Information Science
-        (Department 6) at the University of Science and Technology of China
-        (USTC), admitted in 2024.
-      </p>
+I am </strong>Jinyue Li</strong>, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
 
-    </td>
+   </td>
 
-    <td width="25%" align="center">
-      <img src="/JPG/ustc.jpg" width="130" alt="USTC Logo">
-    </td>
+   <td width="25%" align="center">
+     <img src="/JPG/ustc.jpg" width="130" alt="USTC Logo">
+   </td>
   </tr>
 </table>
 
