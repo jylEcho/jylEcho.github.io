@@ -7,22 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display:flex; align-items:flex-start;">
+<div style="display:flex; align-items:center; gap:24px;">
 
-<div style="flex:3;">
+  <div style="flex:1; font-size:18px; line-height:1.6;">
+    I am <strong>Jinyue Li</strong>, an integrated Ph.D. student in the
+    Department of Electronic Engineering and Information Science
+    (Department 6) at the University of Science and Technology of China
+    (USTC), admitted in 2024.
+  </div>
 
-<p>
-I am <strong>Jinyue Li</strong>, an integrated Ph.D. student in the
-Department of Electronic Engineering and Information Science
-(Department 6) at the University of Science and Technology of China
-(USTC), admitted in 2024.
-</p>
-
-</div>
-
-<div style="flex:1; text-align:center;">
-<img src="/JPG/ustc.jpg" width="130">
-</div>
+  <div style="width:130px; flex-shrink:0; text-align:center;">
+    <img src="/JPG/ustc.jpg" width="130" alt="USTC Logo">
+  </div>
 
 </div>
 
