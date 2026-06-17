@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
 
-## Selected Publications
+## ✨ Selected Publications
 
 ### **Information Fusion** (*Journal*) | 2026, SCI, IF-15.7, **JCR Q1**
 **M3Net: A Macro→Meso→Micro Clinical-inspired Hierarchical 3D Network for Pulmonary Nodule Classification**
