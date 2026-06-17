@@ -7,22 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-<table>
-  <tr>
-    <td width="75%" valign="top" style="font-size:18px; line-height:1.6;">
+<div style="display:flex; align-items:flex-start;">
 
-      I am <strong>Jinyue Li</strong>, an integrated Ph.D. student in the
-      Department of Electronic Engineering and Information Science
-      (Department 6) at the University of Science and Technology of China
-      (USTC), admitted in 2024.
+<div style="flex:3; padding-right:20px;">
 
-    </td>
+I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
 
-    <td width="25%" align="center">
-      <img src="/JPG/ustc.jpg" width="130" alt="USTC Logo">
-    </td>
-  </tr>
-</table>
+</div>
+
+<div style="flex:1; text-align:center;">
+  <img src="/JPG/ustc.jpg" width="130">
+</div>
+
+</div>
 
 ## ✨ Selected Publications
 
