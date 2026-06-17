@@ -16,7 +16,7 @@ I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic 
    </td>
 
    <td width="25%" align="center">
-     <img src="{{ '/JPG/ustc.jpg' | relative_url }}" width="130" alt="USTC Logo">
+     <img src="/JPG/ustc.jpg" width="130" alt="USTC Logo">
    </td>
   </tr>
 </table>
