@@ -7,16 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am **Jinyue Li (Echo)**, a researcher based in Hefei, China. My work centers on **computer vision**, **medical imaging**, and practical research systems that make experiments easier to reproduce and extend.
+I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
 
-I believe research should be transparent and useful in practice, so I try to keep my code public whenever possible. If you are interested in collaboration, reproduction, or technical discussion, feel free to reach out by email.
-
-Research interests
+News
 ======
-- Computer vision
-- Medical image analysis
-- Explainable and trustworthy AI
-- Reproducible research codebases
+- npj Digital Medicine (Journal) | 2026, Nature Portfolio, SCI, IF-15.1, JCR Q1
+An Interpretable AI System for Oral Leukoplakia Progression: From Early Screening to Lesion Delineation
+Linfei Feng*, Guanyu Chen*, Huabao Chen*, Susu Luo, Xuanyu Li, Aokun Liu, **Jinyue Li**, Huarui Liu, Yimou Wang, Feng He, Lin Jiao, Yang Liu, Yani Zhang†, Qiankun Li†
+
+- MICCAI (Conference) | 2026, CCF-B
+Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation
+Ying Chen, **Jinyue Li**, Kun Wang†, Qiankun Li†, Yang Liu
+
+
 
 Profiles
 ======
@@ -24,12 +27,8 @@ Profiles
 - [Google Scholar](https://scholar.google.com/citations?user=zwIC3ksAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0009-0003-2565-3243)
 
-What you will find here
-======
-- A short overview of my background and research focus
-- Links to public code repositories and selected project pages
-- Basic contact and academic profile information
 
-Contact
+
+Contact Me
 ======
 Email: [ljy0226@mail.ustc.edu.cn](mailto:ljy0226@mail.ustc.edu.cn)
