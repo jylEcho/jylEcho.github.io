@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Profile
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Jinyue Li is a researcher focused on computer vision, medical imaging, and interpretable AI systems. This page summarizes the public information currently available on this site.
 
-Work experience
+Research areas
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Computer vision
+* Medical image analysis
+* Explainable AI
+* Open and reproducible research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Academic profiles
+======
+* Google Scholar: [zwIC3ksAAAAJ](https://scholar.google.com/citations?user=zwIC3ksAAAAJ&hl=en)
+* ORCID: [0009-0003-2565-3243](https://orcid.org/0009-0003-2565-3243)
+* GitHub: [jylEcho](https://github.com/jylEcho)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Selected repositories
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [NightLaneSynth](https://github.com/jylEcho/NightLaneSynth): synthetic night data for nighttime lane detection
+* [M3-Net](https://github.com/jylEcho/M3-Net): macro-to-meso-to-micro clinical-guided explainable modeling
+* [Meta-MemBank](https://github.com/jylEcho/Meta-MemBank): public research codebase for ongoing work
+* [PathMem](https://github.com/jylEcho/PathMem): pathology-oriented research repository
+* [CGS-Net](https://github.com/jylEcho/CGS-Net): computer vision research implementation
 
-Publications
+Contact
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: [ljy0226@mail.ustc.edu.cn](mailto:ljy0226@mail.ustc.edu.cn)
+* Location: Hefei, China
