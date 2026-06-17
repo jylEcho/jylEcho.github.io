@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinyue Li"
+title: "Jinyue Li | Medical AI & Computer Vision Researcher"
 author_profile: true
 redirect_from: 
   - /about/
