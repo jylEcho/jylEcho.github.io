@@ -16,7 +16,7 @@ I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic 
 ### **Information Fusion** (*Journal*) | 2026, SCI, IF-15.7, **JCR Q1**
 **M3Net: A Macro→Meso→Micro Clinical-inspired Hierarchical 3D Network for Pulmonary Nodule Classification**
 
-Jinyue Li, Yuzhou Yu, Jingjing Yang, Meng Fu, Yani Zhang, Shuyao He, Dianlong Ge, Xin Ning†, Yannan Chu†, **Qiankun Li**
+**Jinyue Li**, Yuzhou Yu, Jingjing Yang, Meng Fu, Yani Zhang, Shuyao He, Dianlong Ge, Xin Ning†, Yannan Chu†, Qiankun Li
 
 ---
 
