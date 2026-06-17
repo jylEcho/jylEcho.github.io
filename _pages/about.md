@@ -9,14 +9,19 @@ redirect_from:
 
 <div style="display:flex; align-items:flex-start;">
 
-<div style="flex:3; padding-right:20px;">
+<div style="flex:3;">
 
-I am **Jinyue Li**, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
+<p>
+I am <strong>Jinyue Li</strong>, an integrated Ph.D. student in the
+Department of Electronic Engineering and Information Science
+(Department 6) at the University of Science and Technology of China
+(USTC), admitted in 2024.
+</p>
 
 </div>
 
 <div style="flex:1; text-align:center;">
-  <img src="/JPG/ustc.jpg" width="130">
+<img src="/JPG/ustc.jpg" width="130">
 </div>
 
 </div>
