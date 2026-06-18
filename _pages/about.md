@@ -23,7 +23,7 @@ My research focus on: MLLM Reasoning Agent AI4Health
   </tr>
 </table>
 
-## ✨ Selected Publications
+## ✨ Publications
 
 ### **Information Fusion** (*Journal*) | 2026, SCI, IF-15.7, **JCR Q1**
 **M3Net: A Macro→Meso→Micro Clinical-inspired Hierarchical 3D Network for Pulmonary Nodule Classification**
