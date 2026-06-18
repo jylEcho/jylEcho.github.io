@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinyue Li | Ph.D Candidate, USTC"
+title: "Jinyue Li 2002.02.26 | Ph.D Candidate, USTC"
 author_profile: true
 redirect_from: 
   - /about/
