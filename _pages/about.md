@@ -60,3 +60,10 @@ Ying Chen, **Jinyue Li**, Qiankun Li†
 - Explored parameter-efficient fine-tuning techniques, including LoRA-based adaptation for domain-specific tasks.
 - Participated in model training, evaluation, and deployment to improve efficiency and real-world applicability.
 
+### **Algorithm & Hardware Development Intern** | 2023.12 – 2024.06
+**China Electric Power Research Institute (CEPRI, 中国电力科学研究院)**
+
+- Conducted research and development of intelligent algorithms for power system monitoring and analysis.
+- Designed and implemented data processing pipelines for sensor and operational data.
+- Participated in embedded hardware development, debugging, and system integration.
+- Evaluated algorithm performance through experimental testing and real-world deployment scenarios.
