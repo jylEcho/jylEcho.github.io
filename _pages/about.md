@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinyue Li | Ph.D. Candidate, USTC"
+title: "Jinyue Li | Ph.D Candidate, USTC"
 author_profile: true
 redirect_from: 
   - /about/
