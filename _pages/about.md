@@ -12,6 +12,7 @@ redirect_from:
     <td width="75%" valign="top" style="font-size:1em;">
 
 I am Jinyue Li (Langfang, Hebei. Hui ethnic), an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
+
 My research focus on: MLLM Reasoning Agent AI4Health
 
    </td>
