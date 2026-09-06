@@ -24,8 +24,17 @@ My research focus on: MLLM Reasoning Agent AI4Health
 </table>
 
 ## ✨ Publications
+---
 
-### **Information Fusion** (*Journal*) | 2026, SCI, IF-15.7, **JCR Q1**
+### **IEEE Transactions on Multimedia (TMM)** (*Journal*) | 2026, SCI, EI, IF-9.9, **JCR Q1**, <span style="color: red; font-weight: bold;">CCF-A</span>
+
+**HMC-Net: Hierarchical Multi-phase Cross-Fusion Network for Liver Tumor Segmentation**
+
+**Jinyue Li**, Qiang Lin*, Qiankun Li†, Huabao Chen, Feng He, Xin Ning†, Yu Liu, Zhigang Zeng
+
+---
+
+### **Information Fusion** (*Journal*) | 2026, SCI, IF-17.4, **JCR Q1**
 **M3Net: A Macro→Meso→Micro Clinical-inspired Hierarchical 3D Network for Pulmonary Nodule Classification**
 
 **Jinyue Li**, Yuzhou Yu, Jingjing Yang, Meng Fu, Yani Zhang, Shuyao He, Dianlong Ge, Xin Ning†, Yannan Chu†, Qiankun Li
@@ -52,6 +61,15 @@ Ying Chen, **Jinyue Li**, Kun Wang†, Qiankun Li†, Yang Liu
 Ying Chen, **Jinyue Li**, Qiankun Li†
 
 ---
+
+### **Expert Systems with Applications** (*Journal*) | 2027, SCI, EI, IF-9.4
+
+**PARF-Net: Phase-Adaptive Robust Fusion for Liver Tumor Segmentation with Missing-Phase CECT**
+
+Yiwen Liu, **Jinyue Li**, Enhao Ning, Liping Zhang, Qiankun Li, Xin Ning
+
+---
+
 
 ## 💼 Internship Experience
 
