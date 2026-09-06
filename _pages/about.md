@@ -11,9 +11,7 @@ redirect_from:
   <tr>
     <td width="75%" valign="top" style="font-size:1em;">
 
-I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024.
-
-My research focus on: MLLM Reasoning Agent AI4Health
+I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024. My research interests mainly lie in Multimodal Large Language Model (MLLM) reasoning, AI Agents, and AI for Healthcare (AI4Health), with a particular focus on developing intelligent, reliable, and generalizable AI systems for complex real‑world applications. I have published multiple peer‑reviewed papers in top‑tier journals and conferences including INFFUS, T‑NNLS, T‑MM, npj Digital Medicine, MICCAI, IJCAI, and ESWA. My publications cover a broad spectrum of multimodal learning, large‑language‑model reasoning, and intelligent agents.
 
    </td>
 
