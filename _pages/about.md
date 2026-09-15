@@ -68,6 +68,21 @@ Yiwen Liu, **Jinyue Li**, Enhao Ning, Liping Zhang, Qiankun Li, Xin Ning
 
 ---
 
+### **Journal of Translational Medicine** (*Journal*) | 2026, SCI, IF-9.7, JCR Q1
+
+**Agentic Systems in Computational Pathology: Architectures, Evidence, and Translational Challenges**
+
+Xinyu Lu, Qiankun Li, Yakun Gao, Wei Dong, Mengyao Lyu, Siyuan Ma, **Jinyue Li**, Yufeng Wu, Linghan Cai, Tianyi Zhang, Shangqing Lyu, Zeyu Liu, Hui Liu, Susu Luo
+
+---
+
+### **Trustworthy Medical Multimodal Large Language Models** (*Review*) | 2026
+
+**Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks**
+
+Qiankun Li, Junyuan Mao, **Jinyue Li**, Rui Hao, Huabao Chen, Guanyu Chen, Linghao Meng, Jingchi Liao, Yani Zhang, Yiming Zhang, Guibin Zhang, Junfeng Fang, Zhenhong Zhou, Jiayu Qian, Liangrui Pan, Lianyu Hu, Liang Lin, Hao Wu, Yiqi Zhao, Huahui Yi, Qingbo Kang, Aiping Liu, Junxin Chen, Bo Fang, Yue Huang, Zhou Wang, Vivek Mohan, Viktor Schlegel, Kun Wang, Zengxiang Li, Yueming Jin, Weidong Cai, Xun Chen, Zhigang Zeng, Yang Liu, Nan Liu
+
+---
 
 ## 💼 Internship Experience
 
