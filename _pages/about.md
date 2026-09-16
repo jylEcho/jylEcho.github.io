@@ -75,7 +75,7 @@ Yiwen Liu, **Jinyue Li**, Enhao Ning, Liping Zhang, Qiankun Li, Xin Ning
 Xinyu Lu, Qiankun Li, Yakun Gao, Wei Dong, Mengyao Lyu, Siyuan Ma, **Jinyue Li**, Yufeng Wu, Linghan Cai, Tianyi Zhang, Shangqing Lyu, Zeyu Liu, Hui Liu, Susu Luo
 
 
-### **Trustworthy Medical Multimodal Large Language Models** (*Review*) | 2026
+### **KDD Workshop** (*Review*) | 2026
 
 **Trustworthy Medical Multimodal Large Language Models: Taxonomy, Evaluation, and Benchmarks**
 
