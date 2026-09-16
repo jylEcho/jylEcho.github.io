@@ -100,3 +100,27 @@ Qiankun Li, Junyuan Mao, **Jinyue Li**, Rui Hao, Huabao Chen, Guanyu Chen, Lingh
 - Designed and implemented data processing pipelines for sensor and operational data.
 - Participated in embedded hardware development, debugging, and system integration.
 - Evaluated algorithm performance through experimental testing and real-world deployment scenarios.
+
+---
+
+## 🚴 Cycling Experience
+
+<img src="images/bike.jpg" width="300" align="right" />
+
+Outside of academics and work, cycling is an important part of my life.
+I enjoy the challenge of road cycling — pushing my limits, exploring new places, and experiencing the focus and persistence that come with every ride.
+
+I have participated in several competitive road cycling events, including:
+
+- 🚴 The 2nd “Beijing–Tianjin–Hebei Coordinated Development Cup” Road Cycling Invitational, Dachang, Hebei
+Men's Road Elite Group — Individual
+- 🚴 2024 “Jilin Cycling Journey” Tour of Jilin Province Cycling Open
+Men's Road Group A
+
+<br clear="right"/>
+
+📸 Race Moments
+
+<table> <tr> <td align="center"> <img src="images/Dachang.jpg" width="360"/><br/> <b>Beijing–Tianjin–Hebei Coordinated Development Cup</b><br/> Dachang, Hebei </td> <td align="center"> <img src="images/jilin.jpeg" width="360"/><br/> <b>2024 Tour of Jilin Province Cycling Open</b><br/> Jilin, China </td> </tr> </table>
+
+Cycling has taught me more than endurance — it has strengthened my discipline, resilience, and willingness to keep moving forward when things get difficult.
