@@ -21,6 +21,11 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
   </tr>
 </table>
 
+## 🏆 Awards
+### **National Scholarship  (2026)**
+
+---
+
 ## ✨ Publications
 ---
 
