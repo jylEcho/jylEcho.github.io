@@ -108,7 +108,6 @@ Qiankun Li, Junyuan Mao, **Jinyue Li**, Rui Hao, Huabao Chen, Guanyu Chen, Lingh
 <img src="https://github.com/jylEcho/jylEcho.github.io/blob/master/images/bike.jpg?raw=true" width="300" align="right" />
 
 Outside of academics and work, cycling is an important part of my life.
-I enjoy the challenge of road cycling — pushing my limits, exploring new places, and experiencing the focus and persistence that come with every ride.
 
 I have participated in several competitive road cycling events, including:
 
@@ -140,7 +139,5 @@ I have participated in several competitive road cycling events, including:
     </td>
   </tr>
 </table>
-
-Cycling has taught me more than endurance — it has strengthened my discipline, resilience, and willingness to keep moving forward when things get difficult.
 
 ---
