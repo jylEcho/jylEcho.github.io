@@ -23,7 +23,7 @@ repository               : "jylEcho/jylEcho.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/JPG/bike.jpg"
+  avatar           : "/JPG/myself.jpg"
   name             : "Jinyue Li"
   pronouns         : # example: "she/her"  
   bio              : "Hello! I'm Jinyue Li. Feel free to reach out if you are interested in my research or would like to discuss potential collaborations: <br>ljy0226@mail.ustc.edu.cn"
