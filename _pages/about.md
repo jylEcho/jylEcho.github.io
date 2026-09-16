@@ -21,11 +21,11 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
   </tr>
 </table>
 
+## <span style="color: red; font-weight: bold;">老当益壮，宁移白首之心；穷且益坚，不坠青云之志。</span>
+
 ## 🏆 Awards
 
 ### **National Scholarship  (2026)**
-
-## 人生格言 | <span style="color: red; font-weight: bold;">老当益壮，宁移白首之心；穷且益坚，不坠青云之志。</span>
 
 ## ✨ Publications
 
