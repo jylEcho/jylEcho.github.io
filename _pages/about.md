@@ -22,12 +22,11 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
 </table>
 
 ## 🏆 Awards
+
 ### **National Scholarship  (2026)**
 
----
 
 ## ✨ Publications
----
 
 ### **IEEE Transactions on Multimedia (TMM)** (*Journal*) | 2026, SCI, EI, IF-9.9, **JCR Q1**, <span style="color: red; font-weight: bold;">CCF-A</span>
 
@@ -35,35 +34,30 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
 
 **Jinyue Li**, Qiang Lin*, Qiankun Li†, Huabao Chen, Feng He, Xin Ning†, Yu Liu, Zhigang Zeng
 
----
 
 ### **Information Fusion** (*Journal*) | 2026, SCI, IF-17.4, **JCR Q1**
 **M3Net: A Macro→Meso→Micro Clinical-inspired Hierarchical 3D Network for Pulmonary Nodule Classification**
 
 **Jinyue Li**, Yuzhou Yu, Jingjing Yang, Meng Fu, Yani Zhang, Shuyao He, Dianlong Ge, Xin Ning†, Yannan Chu†, Qiankun Li
 
----
 
 ### **npj Digital Medicine** (*Nature Portfolio, Journal*) | 2026, SCI, IF-15.1, **JCR Q1**
 **An Interpretable AI System for Oral Leukoplakia Progression: From Early Screening to Lesion Delineation**
 
 Linfei Feng*, Guanyu Chen*, Huabao Chen*, Susu Luo, Xuanyu Li, Aokun Liu, **Jinyue Li**, Huarui Liu, Yimou Wang, Feng He, Lin Jiao, Yang Liu, Yani Zhang†, Qiankun Li†
 
----
 
 ### **MICCAI** (*Conference*) | 2026, **CCF-B**
 **Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation**
 
 Ying Chen, **Jinyue Li**, Kun Wang†, Qiankun Li†, Yang Liu
 
----
 
 ### **IJCAI** (*Conference*) | 2026, **CCF-A**
 **Joint Medical Image Enhancement and Segmentation with Diffusion-based Symbiotic Information Interaction**
 
 Ying Chen, **Jinyue Li**, Qiankun Li†
 
----
 
 ### **Expert Systems with Applications** (*Journal*) | 2027, SCI, EI, IF-9.4
 
@@ -71,7 +65,6 @@ Ying Chen, **Jinyue Li**, Qiankun Li†
 
 Yiwen Liu, **Jinyue Li**, Enhao Ning, Liping Zhang, Qiankun Li, Xin Ning
 
----
 
 ### **Journal of Translational Medicine** (*Journal*) | 2026, SCI, IF-9.7, JCR Q1
 
@@ -79,7 +72,6 @@ Yiwen Liu, **Jinyue Li**, Enhao Ning, Liping Zhang, Qiankun Li, Xin Ning
 
 Xinyu Lu, Qiankun Li, Yakun Gao, Wei Dong, Mengyao Lyu, Siyuan Ma, **Jinyue Li**, Yufeng Wu, Linghan Cai, Tianyi Zhang, Shangqing Lyu, Zeyu Liu, Hui Liu, Susu Luo
 
----
 
 ### **Trustworthy Medical Multimodal Large Language Models** (*Review*) | 2026
 
@@ -87,7 +79,6 @@ Xinyu Lu, Qiankun Li, Yakun Gao, Wei Dong, Mengyao Lyu, Siyuan Ma, **Jinyue Li**
 
 Qiankun Li, Junyuan Mao, **Jinyue Li**, Rui Hao, Huabao Chen, Guanyu Chen, Linghao Meng, Jingchi Liao, Yani Zhang, Yiming Zhang, Guibin Zhang, Junfeng Fang, Zhenhong Zhou, Jiayu Qian, Liangrui Pan, Lianyu Hu, Liang Lin, Hao Wu, Yiqi Zhao, Huahui Yi, Qingbo Kang, Aiping Liu, Junxin Chen, Bo Fang, Yue Huang, Zhou Wang, Vivek Mohan, Viktor Schlegel, Kun Wang, Zengxiang Li, Yueming Jin, Weidong Cai, Xun Chen, Zhigang Zeng, Yang Liu, Nan Liu
 
----
 
 ## 💼 Internship Experience
 
@@ -106,7 +97,6 @@ Qiankun Li, Junyuan Mao, **Jinyue Li**, Rui Hao, Huabao Chen, Guanyu Chen, Lingh
 - Participated in embedded hardware development, debugging, and system integration.
 - Evaluated algorithm performance through experimental testing and real-world deployment scenarios.
 
----
 
 ## 🚴 Cycling Experience
 
