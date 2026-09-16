@@ -28,6 +28,12 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
 
 ### **National Scholarship  (2026)**
 
+
+## 📝 Academic Service
+
+### **Reviewer, Expert Systems (2026–Present)**
+
+
 ## ✨ Publications
 
 ### **IEEE Transactions on Multimedia (TMM)** (*Journal*) | 2026, SCI, EI, IF-9.9, **JCR Q1**, <span style="color: red; font-weight: bold;">CCF-A</span>
