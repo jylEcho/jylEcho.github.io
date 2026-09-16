@@ -125,12 +125,16 @@ I have participated in several competitive road cycling events, including:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/jylEcho/jylEcho.github.io/blob/master/images/Dachang.jpg?raw=true" width="360"/><br/>
+      <img src="https://github.com/jylEcho/jylEcho.github.io/blob/master/images/Dachang.jpg?raw=true"
+           width="360" height="240"
+           style="object-fit: cover;"/><br/>
       <b>Beijing–Tianjin–Hebei Coordinated Development Cup</b><br/>
       Dachang, Hebei
     </td>
     <td align="center">
-      <img src="https://github.com/jylEcho/jylEcho.github.io/blob/master/images/jilin.jpeg?raw=true" width="360"/><br/>
+      <img src="https://github.com/jylEcho/jylEcho.github.io/blob/master/images/jilin.jpeg?raw=true"
+           width="360" height="240"
+           style="object-fit: cover;"/><br/>
       <b>2024 Tour of Jilin Province Cycling Open</b><br/>
       Jilin, China
     </td>
