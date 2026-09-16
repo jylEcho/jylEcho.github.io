@@ -139,11 +139,4 @@ I have participated in several competitive road cycling events, including:
 
 Cycling has taught me more than endurance — it has strengthened my discipline, resilience, and willingness to keep moving forward when things get difficult.
 
-
-📸 Race Moments
-
-<table> <tr> <td align="center"> <img src="images/Dachang.jpg" width="360"/><br/> <b>Beijing–Tianjin–Hebei Coordinated Development Cup</b><br/> Dachang, Hebei </td> <td align="center"> <img src="images/jilin.jpeg" width="360"/><br/> <b>2024 Tour of Jilin Province Cycling Open</b><br/> Jilin, China </td> </tr> </table>
-
-Cycling has taught me more than endurance — it has strengthened my discipline, resilience, and willingness to keep moving forward when things get difficult.
-
 ---
