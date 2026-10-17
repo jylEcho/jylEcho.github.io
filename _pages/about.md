@@ -21,6 +21,8 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
   </tr>
 </table>
 
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。</span>
+
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">老当益壮，宁移白首之心；穷且益坚，不坠青云之志。</span>
 
 
