@@ -90,6 +90,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
+      <!-- Site-wide visitor statistics -->
+      <li id="busuanzi_container_site_pv" style="display: none;"><i class="fas fa-fw fa-eye icon-pad-right" aria-hidden="true"></i>Total views: <span id="busuanzi_value_site_pv"></span></li>
+      <li id="busuanzi_container_site_uv" style="display: none;"><i class="fas fa-fw fa-users icon-pad-right" aria-hidden="true"></i>Visitors: <span id="busuanzi_value_site_uv"></span></li>
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>
       {% endif %}      
