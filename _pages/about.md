@@ -140,9 +140,22 @@ I have participated in several competitive road cycling events, including:
   </tr>
 </table>
 
-## 📜 名言警句
+## 📜 《滕王阁序》 佳句欣赏
 
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。</span>
 
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">老当益壮，宁移白首之心；穷且益坚，不坠青云之志。</span>
+
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。</span>
+
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。</span>
+
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">酌贪泉而觉爽，处涸辙以犹欢。</span>
+
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！</span>
+
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。</span>
+
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。</span>
+
 ---
