@@ -152,7 +152,7 @@ I have participated in several competitive road cycling events, including:
 
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">酌贪泉而觉爽，处涸辙以犹欢。</span>
 
-## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">北海虽赊，扶摇可接；东隅已逝，桑榆非晚。孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！</span>
+## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">北海虽赊，扶摇可接；东隅已逝，桑榆非晚。<br>孟尝高洁，空余报国之情；阮籍猖狂，岂效穷途之哭！</span>
 
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。</span>
 
