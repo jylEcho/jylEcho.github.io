@@ -140,7 +140,8 @@ I have participated in several competitive road cycling events, including:
   </tr>
 </table>
 
----
+## 📜 名言警句
+
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。</span>
 
 ## <span style="color: red; font-weight: bold; font-family: KaiTi, STKaiti, '楷体', serif;">老当益壮，宁移白首之心；穷且益坚，不坠青云之志。</span>
