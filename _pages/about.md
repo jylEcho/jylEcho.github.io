@@ -21,7 +21,7 @@ I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic En
   </tr>
 </table>
 
-### **Ph.D. Advisors: Aiping Li & Xun Chen**
+### 🎓 **Ph.D. Advisors: Aiping Li & Xun Chen**
 
 ## 🏆 Awards
 
