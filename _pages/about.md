@@ -13,9 +13,9 @@ redirect_from:
 
 I am Jinyue Li, an integrated Ph.D. student in the Department of Electronic Engineering and Information Science (Department 6) at the University of Science and Technology of China (USTC), admitted in 2024. My research interests mainly lie in Multimodal Large Language Model (MLLM) reasoning, AI Agents, and AI for Healthcare (AI4Health), with a particular focus on developing intelligent, reliable, and generalizable AI systems for complex real‑world applications. I have published multiple peer‑reviewed papers in top‑tier journals and conferences including INFFUS, T‑NNLS, T‑MM, npj Digital Medicine, MICCAI, IJCAI, and ESWA. My publications cover a broad spectrum of multimodal learning, large‑language‑model reasoning, and intelligent agents.
 
-**Master’s Advisor:** Yannan Chu
+**Master’s Advisor: Yannan Chu**
 
-**Ph.D. Advisors:** Aiping Li & Xun Chen
+**Ph.D. Advisors: Aiping Li & Xun Chen**
 
    </td>
 
